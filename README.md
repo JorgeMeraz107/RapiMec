@@ -39,7 +39,8 @@ Desarrollado en HTML, CSS, JS, Tailwind entre otras bibliotecas de JS, en el bac
 
 
 
-
+La App Movil tiene opciones e interfaces de Administracion completas para gestionar cada entidad, no se colocan por motivos de privacidad
+Desarrollada entre Septiembre 2024- Marzo 2025 
 
 
 
